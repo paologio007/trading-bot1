@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: new-auiobot
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: python bot.py
-    envVars: []
